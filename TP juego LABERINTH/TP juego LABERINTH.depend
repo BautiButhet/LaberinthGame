@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1654106468 source:d:\tp juego laberinth\juego.c
+	<unistd.h>
+	<time.h>
+	"aleatorio.c"
+	"intro.c"
+
+1654105052 d:\tp juego laberinth\aleatorio.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1654104818 d:\tp juego laberinth\intro.c
+	<stdio.h>
+
+1654279175 source:c:\users\bauti\onedrive\escritorio\word documentos\2do año\cuatri 1\informatica\tp juego laberinth\juego.c
+	<unistd.h>
+	<time.h>
+	"aleatorio.c"
+	"intro.c"
+
+1654279694 c:\users\bauti\onedrive\escritorio\word documentos\2do año\cuatri 1\informatica\tp juego laberinth\aleatorio.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1654355204 c:\users\bauti\onedrive\escritorio\word documentos\2do año\cuatri 1\informatica\tp juego laberinth\intro.c
+	<stdio.h>
+
+1666124406 source:c:\users\bauti\onedrive - universidad austral\tp juego laberinth\tp juego laberinth\juego.c
+	<unistd.h>
+	<time.h>
+	"aleatorio.c"
+	"intro.c"
+
+1666122183 c:\users\bauti\onedrive - universidad austral\tp juego laberinth\tp juego laberinth\aleatorio.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1666122183 c:\users\bauti\onedrive - universidad austral\tp juego laberinth\tp juego laberinth\intro.c
+	<stdio.h>
+
